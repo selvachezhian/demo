@@ -1,1 +1,5 @@
 Hello this is a sample file
+It's a demo repository.
+
+UN: selvachezhian.labam@gmail.com
+PW: training1
